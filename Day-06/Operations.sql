@@ -1,0 +1,13 @@
+select abs(-25), abs(30);
+select ceil(12.3), ceil(-12.9);
+select floor(12.3), floor(-12.9);
+select round(12.4567,2), round(12.4567,3);
+select truncate(123.4567,2), truncate(1234.5678,3);
+select pow(2,3), power(5,2);
+select sqrt(16), sqrt(4);
+select mod(10,3);
+select rand(), rand(10);
+select pi();
+select sign(-25), sign(0), sign(23);
+select greatest(25,100,20,300);
+select least(25,100,6,8); 
