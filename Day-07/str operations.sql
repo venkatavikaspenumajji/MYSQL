@@ -1,0 +1,21 @@
+select char_length('Hello');
+select char_length('😊');
+select concat('My','SQL');
+select concat('python',' ','programming');
+select concat_ws('-','2025','09','23');
+select concat_ws(',','python','java');
+select upper('hello');
+select lower('LOVABLE');
+select left('database',5);
+select right('database',4);
+select substring('database', 5);
+select substring('python programming lang', 10, 7);
+select locate('a', 'database'); -- 5
+select replace('xxxxxxxxxxxxhexxxxxlloxxxx','x','');
+select trim('hello       world        ');
+select ltrim('  hello');
+select rtrim('hello   ');
+select reverse('mysql');
+select lpad('1238','10','*');
+select rpad('123', 8, '*');
+select repeat('mysql-', 3);
