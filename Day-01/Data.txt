@@ -1,0 +1,58 @@
+(1) data.....
+
+Data means raw facts and figures collected from different sources.
+
+(2) What is File Management?
+
+File management is the process of creating, storing, organizing, renaming, copying, moving, and deleting files and folders on a computer or other storage device.
+
+  Main Functions:
+
+ Create – Create new files and folders.
+ Store  –  Save files in a specific location.
+ Rename – Change the name of a file or folder.
+ Copy   – Make a duplicate of a file.
+ Move   – Transfer a file from one location to another.
+ Delete – Remove unwanted files.
+
+(3) Drawbacks of File Management 
+
+  Data Redundancy
+  Data duplication 
+  Security issues
+  Difficult to manage large data
+  Data loss 
+  Limited data sharing 
+  Backup problems 
+  Slow searching 
+
+(4) What is a Management System?
+
+   A management system used by an organization to plan, organize, monitor, and control activities to achieve its goals.
+
+(5) What is DBMS?
+
+    “DBMS is software that helps users create, store, manage, retrieve, and manipulate data in a database efficiently and securely.”
+
+ Examples of DBMS:
+
+    MySQL
+    Oracle
+    PostgreSQL
+    Microsoft SQL Server
+    SQLite
+    MongoDB
+
+Features of DBMS :
+
+  Data Storage 
+  Data Security 
+  Data Integrity 
+  Data Redundancy Control 
+  Data Sharing 
+  Backup and Recovery 
+  Concurrency Control 
+  Data Independence 
+  Easy Data Retrieval 
+  Multiple User Support
+  Scalability
